@@ -1,5 +1,9 @@
 # BuddyPlay
 
+[![CI](https://github.com/AmericanGroupLLC/BuddyPlay/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AmericanGroupLLC/BuddyPlay/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)](#stack)
+
 > **Play anywhere. No internet needed.**
 
 BuddyPlay is a lightweight, all-in-one **offline** multiplayer hub. Two
@@ -56,3 +60,14 @@ and [`BUDDYPLAY-FEATURES.md`](BUDDYPLAY-FEATURES.md) for the feature inventory.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Related repos
+
+Companion umbrella repo: [mobile-apps](https://github.com/AmericanGroupLLC/mobile-apps).
+This repository was extracted from `AmericanGroupLLC/mobile-apps` via
+`git subtree split` with full history preserved.
+
+## Contributing
+
+See [CONTRIBUTING.md](#) and the [issue templates](.github/ISSUE_TEMPLATE/) for
+bug reports, feature requests, security disclosures, doc fixes, and questions.

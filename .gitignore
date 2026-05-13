@@ -94,3 +94,16 @@ coverage/
 # === added-by-productionize-plan: keep desktop/build assets ===
 !desktop/build/
 !desktop/build/**
+
+# ── Android-Kotlin (generic patterns, not module-scoped) ──────────
+.gradle/
+**/build/
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+key.properties
+gradle.properties.local
+.kotlin/

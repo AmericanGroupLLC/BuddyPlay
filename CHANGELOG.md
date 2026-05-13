@@ -1,8 +1,17 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to BuddyPlay will be documented in this file.
 
-This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+- Standardised repo hygiene scaffolding (README badges, CI `workflow_dispatch`
+  trigger, `.github/CODEOWNERS`, issue templates for bug/feature/security/doc/question).
+- Repo extracted from `AmericanGroupLLC/mobile-apps` via `git subtree split`
+  with full history preserved.
 
 ## [Unreleased] - v0.1.0
 
